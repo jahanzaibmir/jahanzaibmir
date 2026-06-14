@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Iam a cybersecurity engineer<br>Ethical Hacker | Developer<br>I build systems that scale<br>
 
 
