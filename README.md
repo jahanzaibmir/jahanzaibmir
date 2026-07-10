@@ -1,5 +1,5 @@
 # About Me:
-Iam a cybersecurity analyst <br>Ethical Hacker | Developer<br>I build systems that scale<br>
+Iam a cybersecurity engineer and researcher <br>Ethical Hacker | Developer<br>I build systems that scale<br>
 
 
 ## 🌐 Socials:
