@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Cybersecurity Engineer | Hacker | Software Developer<br>I build and safeguard systems that scale
 
 
