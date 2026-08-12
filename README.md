@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a Cybersecurity Engineer | Hacker | Software Developer<br>I build and safeguard systems that scale
+
+Cybersecurity engineer | Hacker | Developer
+I build, optimize, and safeguard scalable systems from the kernel up.
+Specialized in low-level programming, computer networking, and offensive/defensive security.
 
 
 ## 🌐 Socials:
