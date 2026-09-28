@@ -3,7 +3,7 @@
 Cybersecurity engineer and Researcher | Hacker | Developer <br>
 I build and safeguard scalable systems from the kernel up. <br>
 Specialized in computer networking, and offensive/defensive security. <br>
-I like coding in Assembly in C.
+I like to code in Assembly in C.
 
 
 ## Socials:
