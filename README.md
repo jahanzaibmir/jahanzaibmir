@@ -2,7 +2,7 @@
 
 Cybersecurity engineer and Researcher | Hacker | Developer <br>
 Specialized in computer networking, and offensive/defensive security. <br>
-I like to code in Assembly in C.
+I love Assembly & C.
 
 
 ## Socials:
